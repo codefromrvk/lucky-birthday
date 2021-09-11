@@ -1,2 +1,3 @@
 # lucky-birthday
-Created with CodeSandbox
+
+An app made to check whether your birthday is lucky or not
