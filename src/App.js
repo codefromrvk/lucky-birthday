@@ -41,6 +41,25 @@ export default function App() {
         </button>
         <p>{ans}</p>
       </div>
+       <small style={{ color: "gray" }}>
+        ***We do not store or share any of your data.This app is just for
+        demonstration and fun only***
+      </small>
+
+      <div class="footer">
+        <a target="_blank" href="https://www.github.com/codefromrvk">
+          Github
+        </a>
+        <a
+          target="_blank"
+          href="https://www.linkedin.com/in/varshith-kumar-a430a91a5/"
+        >
+          LinkedIn
+        </a>
+        <a target="_blank" href="https://www.twitter.com/0xrvk">
+          Twitter
+        </a>
+      </div>
     </div>
   );
 }
