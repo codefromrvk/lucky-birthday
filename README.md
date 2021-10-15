@@ -3,7 +3,7 @@
 An app made to check whether your birthday is lucky or not.
 ## Demo
 
-https://kzn1o.csb.app/
+https://td17e.csb.app/
 
   
 ## Features
